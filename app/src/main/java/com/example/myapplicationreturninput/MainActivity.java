@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
         String input = t.getText().toString();
 
         Log.d(tag:"info", input);
-        //litle probelm
+        //bigger probelms
     }
 }
